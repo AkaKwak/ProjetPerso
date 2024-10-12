@@ -222,6 +222,7 @@ input:focus {
 }
 
 .comment_input {
+    resize: none;
     height: 80px;
     width: 400px;
     border-radius: 10px;
